@@ -10,3 +10,4 @@ Watch tutorial on Youtube.
 
 1. Open index.html in browser
 2. add new line for merge test
+3. added for merge test 3
